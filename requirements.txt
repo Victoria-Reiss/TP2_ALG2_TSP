@@ -1,0 +1,8 @@
+tqdm==4.67.1
+seaborn==0.13.2
+pandas==2.2.3
+networkx==3.2.1
+numpy==2.0.2
+matplotlib==3.9.4
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1733416936468/work
+tabulate==0.9.0
